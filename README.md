@@ -6,7 +6,7 @@ Code for the computational experiments accompanying the paper "Soft Separation f
 
 If you use this repository, please cite the accompanying preprint:
 
-> Xu and Jiang, "Soft Separation for Adaptive Robust Optimization," 2026.
+> Qingyuan Xu and Ruiwei Jiang, "Soft Separation for Adaptive Robust Optimization," 2026.
 > Available at [Optimization-Online](https://optimization-online.org/2026/09/soft-separation-for-adaptive-robust-optimization/).
 
 ## Repository structure

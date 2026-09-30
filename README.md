@@ -18,8 +18,9 @@ If you use this repository, please cite the accompanying preprint:
 }
 ```
 
-> Qingyuan Xu and Ruiwei Jiang, "Soft Separation for Adaptive Robust Optimization," 2026.
-> Available at [Optimization-Online](https://optimization-online.org/2026/09/soft-separation-for-adaptive-robust-optimization/).
+> Qingyuan Xu and Ruiwei Jiang. “Soft Separation for Adaptive Robust Optimization.” arXiv preprint arXiv:2609.36275, 2026.
+
+The preprint is available on [Optimization Online](https://optimization-online.org/2026/09/soft-separation-for-adaptive-robust-optimization/) and [arXiv](https://arxiv.org/abs/2609.36275).
 
 ## Repository structure
 Manuscript section | Notebook | Purpose |
